@@ -43,6 +43,11 @@
         "value": "",
         "required": true
       },
+      "START_IMG_URL": {
+        "description": "Start photo bot",
+        "value": "",
+        "required": true
+      },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
         "value": "",
